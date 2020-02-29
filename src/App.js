@@ -71,7 +71,7 @@ class App extends Component {
            return friend
         })
     }      
-
+     //adding random num generator
      newfriends.sort( () => Math.random() - 0.5) ;
 
      
