@@ -35,7 +35,7 @@ class App extends Component {
          
       //check if its the same friend
       if(id ===friend.id){
-
+        //add to the score
         if(friend.clicked === false){
           
           friend.clicked = true
