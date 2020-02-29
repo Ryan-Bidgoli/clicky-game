@@ -51,6 +51,7 @@ class App extends Component {
             })
           }
         }
+        //else score is restarted 
         else{
           this.setState({
             scores:0
