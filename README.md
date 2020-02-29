@@ -13,7 +13,7 @@ This is a simple memorization and click game. The object of the game is to click
 ## How to install and Run:
 - `git clone` the repo
 - Run `npm install` to get all dependencies
-- `cd` into `clicky-react`
+- `cd` into `clicky-src`
 - Run `npm start`
 - Go to `localhost:3000` in your web browser
 
