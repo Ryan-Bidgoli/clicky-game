@@ -83,6 +83,7 @@ class App extends Component {
   //function to return react element
   render() {
     return (
+      //defining wrapper element
       <Wrapper>
         <Title>Friends List  Scores{this.state.scores}   topScores{this.state.topScores}  </Title>
         {this.state.friends.map(friend => (
