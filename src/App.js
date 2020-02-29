@@ -80,6 +80,7 @@ class App extends Component {
   };
 
   // Map over this.state.friends and render a FriendCard component for each friend object
+  //function to return react element
   render() {
     return (
       <Wrapper>
