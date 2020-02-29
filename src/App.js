@@ -26,7 +26,7 @@ class App extends Component {
          originalFriends: newfriends  
      })
  }
-
+  //removing element by id
   removeFriend = id => {
     
    
