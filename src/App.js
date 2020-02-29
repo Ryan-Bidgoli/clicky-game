@@ -43,7 +43,7 @@ class App extends Component {
             scores: this.state.scores + 1
             
           })
-
+          //checks to update highscore
           if(this.state.scores >= this.state.topScores){
             this.setState({
               topScores:this.state.topScores + 1
