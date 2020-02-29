@@ -63,7 +63,7 @@ class App extends Component {
 
       return friend
     });
-
+    //execute map function 
     if(this.state.scores === 0){
        newfriends = this.state.friends.map(friend=>
         {
