@@ -101,6 +101,6 @@ class App extends Component {
     );
   }
 }
-
+//export a single class
 export default App;
 
