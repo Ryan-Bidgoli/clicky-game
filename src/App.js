@@ -33,7 +33,7 @@ class App extends Component {
     // Filter this.state.friends for friends with an id not equal to the id being removed
     let newfriends = this.state.friends.map(friend => {
          
-     
+      //check if its the same friend
       if(id ===friend.id){
 
         if(friend.clicked === false){
