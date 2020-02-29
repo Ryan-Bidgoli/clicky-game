@@ -20,7 +20,7 @@ class App extends Component {
 
        return friend
      })   
-
+//updating the state setup
      this.setState({
        friends:newfriends,
          originalFriends: newfriends  
