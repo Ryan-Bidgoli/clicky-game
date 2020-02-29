@@ -37,7 +37,7 @@ class App extends Component {
       if(id ===friend.id){
         //add to the score
         if(friend.clicked === false){
-          
+          //updates the value
           friend.clicked = true
           this.setState({
             scores: this.state.scores + 1
