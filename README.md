@@ -1,4 +1,4 @@
-# Friend Finder Clicky Game
+# Clicky Game
 
 ## What is this?
 
